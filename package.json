@@ -1,0 +1,25 @@
+{
+  "name": "cooking-spot",
+  "version": "1.0.0",
+  "description": "a full-stack app to navigate through my favorite recipes easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SThevenot/cooking-spot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SThevenot/cooking-spot/issues"
+  },
+  "homepage": "https://github.com/SThevenot/cooking-spot#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
