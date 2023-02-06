@@ -19,13 +19,8 @@ const recipeSchema = new Schema({
     maxlength: 600,
     trim: true,
   },
-  recipeImg: {
-    type: String,
-    required: true,
-  },
   category: {
     type: [String],
-    required: true,
   },
 });
 

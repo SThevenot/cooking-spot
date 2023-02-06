@@ -3,17 +3,16 @@
 const { gql } = require("apollo-server-express");
 
 const typeDefs = gql`
-  type Project {
+  type Recipe {
     _id: ID
     recipeName: String!
     recipeIngredients: [String]!
     recipeDescription: String!
-    recipeImg: String!
     category: [String]!
   }
 
   type Query {
-    projects: [Project]!
+    recipes: [Recipe]!
   }
 `;
 
