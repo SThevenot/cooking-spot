@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "spaghetti",
+        "ground beef",
+        "onion",
+        "garlic",
+        "tomato sauce",
+        "oregano",
+        "salt",
+        "pepper"
+      ],
+      "description": "A classic Italian dish made with spaghetti pasta and a meat sauce made from ground beef, onion, garlic, and tomato sauce. Seasoned with oregano, salt, and pepper, this dish is hearty, flavorful, and easy to make."
+    },
+    {
+      "name": "Bulgogi",
+      "ingredients": [
+        "ribeye",
+        "onion",
+        "pepper",
+        "garlic",
+        "rice wine",
+        "soy sauce",
+        "brown sugar",
+        "asian pear",
+        "ginger"
+      ],
+      "description": "Bulgogi, literally fire meat, is a gui made of thin, marinated slices of meat, most commonly beef, grilled on a barbecue or on a stove-top griddle. It is also often stir-fried in a pan in home cooking. Sirloin, rib eye or brisket are frequently used cuts of beef for the dish."
+    }]
